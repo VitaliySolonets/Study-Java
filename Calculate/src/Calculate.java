@@ -37,4 +37,5 @@ public class Calculate implements ICalculator {
         }
         this.result = result;
     }
+
 }
